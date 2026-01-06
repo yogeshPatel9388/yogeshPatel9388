@@ -54,17 +54,6 @@ I am a final-year **B.Tech Computer Science** student at **SAGE University, Indo
 
 ---
 
-### 💼 Experience
-
-- **Web Development Intern** | Suvidha Foundation.
-  - Worked on NGO-focused initiatives and improved website responsiveness.
-- **MERN Stack Developer Intern** | Infotact Solutions Pvt. Ltd.
-  - Developed MERN stack web applications with RESTful APIs in an agile environment.
-- **Junior Marketing Manager Intern** | AIESEC in India.
-  - Supported global exchanges, outreach and partnership initiatives.
-
----
-
 ### 🏆 Achievements
 
 - 🏅 **Captain**, AIU West Zone Kabaddi (2x Participation)
@@ -82,5 +71,8 @@ I am a final-year **B.Tech Computer Science** student at **SAGE University, Indo
 </a>
 <a href="mailto:yogeshsidhi123@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yogesh.patel9388" />
+</a>
+<a href="https://x.com/YogeshPate16812" target="blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 </p>
