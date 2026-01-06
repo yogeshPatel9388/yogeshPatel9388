@@ -11,13 +11,13 @@
 
 I am a final-year **B.Tech Computer Science** student at **SAGE University, Indore**. I specialize in building scalable web applications using the **MERN Stack** and have a strong interest in **3D graphics** and **AI-driven solutions**.
 
-- 🔭 I’m currently working on some cool projects in my hard drive.
-- 🌱 I’m currently exploring **Three.js**, **Sketchfab**, and **AI Integration**.
-- 👨‍💻 Most of my projects are available at [github.com/yogeshPatel9388](https://github.com/yogeshPatel9388)
-- 💬 Ask me about **React, Node.js, or UI/UX Design**.
-- 📫 My Inbox is Always Open @yogeshsidhi123@gmail.com
-- 👉 The Story Behind Me **https://yogeshpatel.vercel.app**
-- ⚡ Fun fact: I was the Captain of my University's **Kabaddi team** and am an **NCC "A" Certificate** holder.
+ 🔭 I’m currently working on some cool projects in my hard drive.
+ 🌱 I’m currently exploring **Three.js**, **Sketchfab**, and **AI Integration**.
+ 👨‍💻 Most of my projects are available at [github.com/yogeshPatel9388](https://github.com/yogeshPatel9388)
+ 💬 Ask me about **React, Node.js, or UI/UX Design**.
+ 📫 My Inbox is Always Open @yogeshsidhi123@gmail.com
+ 👉 The Story Behind Me **https://yogeshpatel.vercel.app**
+ ⚡ Fun fact: I was the Captain of my University's **Kabaddi team** and am an **NCC "A" Certificate** holder.
 
 ---
 
@@ -56,10 +56,10 @@ I am a final-year **B.Tech Computer Science** student at **SAGE University, Indo
 
 ### 🏆 Achievements
 
-- 🏅 **Captain**, AIU West Zone Kabaddi (2x Participation)
-- 🎖️ **NCC "A" Certificate** Holder
-- 🚀 **GDG-SUI Techfest Coordinator**
-- 🌟 **Top 3 Performer** at AIESEC Indore
+ 🏅 **Captain**, AIU West Zone Kabaddi (2x Participation)
+ 🎖️ **NCC "A" Certificate** Holder
+ 🚀 **GDG-SUI Techfest Coordinator**
+ 🌟 **Top 3 Performer** at AIESEC Indore
 
 ---
 
