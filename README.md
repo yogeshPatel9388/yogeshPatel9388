@@ -63,7 +63,7 @@ I am a final-year **B.Tech Computer Science** student at **SAGE University, Indo
 
 ---
 
-## Let's Build Something Awesome Together! 🚀
+## 🚀 Let's Build Something Awesome Together!
 I'm open for freelance projects, collaborations, and startup partnerships. Drop a message — let's create something that makes people say "wow"
 
 <p align="left">
