@@ -60,7 +60,7 @@ I am a final-year **B.Tech Computer Science** student at **SAGE University, Indo
   - Worked on NGO-focused initiatives and improved website responsiveness.
 - **MERN Stack Developer Intern** | Infotact Solutions Pvt. Ltd.
   - Developed MERN stack web applications with RESTful APIs in an agile environment.
-- **Junir Marketing Manager Intern** | AIESEC in India.
+- **Junior Marketing Manager Intern** | AIESEC in India.
   - Supported global exchanges, outreach and partnership initiatives.
 
 ---
