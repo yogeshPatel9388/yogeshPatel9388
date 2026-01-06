@@ -15,7 +15,7 @@ I am a final-year **B.Tech Computer Science** student at **SAGE University, Indo
 - 🌱 I’m currently exploring **Three.js**, **Sketchfab**, and **AI Integration**.
 - 👨‍💻 Most of my projects are available at [github.com/yogeshPatel9388](https://github.com/yogeshPatel9388)
 - 💬 Ask me about **React, Node.js, or UI/UX Design**.
-- 📫 Reach out to me @yogeshsidhi123@gmail.com
+- 📫 My Inbox is Always Open @yogeshsidhi123@gmail.com
 - 👉 The Story Behind Me **https://yogeshpatel.vercel.app**
 - ⚡ Fun fact: I was the Captain of my University's **Kabaddi team** and am an **NCC "A" Certificate** holder.
 
@@ -63,7 +63,8 @@ I am a final-year **B.Tech Computer Science** student at **SAGE University, Indo
 
 ---
 
-### 📫 Connect with Me
+## Let's Build Something Awesome Together! 🚀
+I'm open for freelance projects, collaborations, and startup partnerships. Drop a message — let's create something that makes people say "wow"
 
 <p align="left">
 <a href="https://linkedin.com/in/yogeshpatel01" target="blank">
@@ -76,3 +77,8 @@ I am a final-year **B.Tech Computer Science** student at **SAGE University, Indo
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
 </a>
 </p>
+
+---
+
+### 📫 Let's Connect
+Have an idea? Let's turn it into a reality. I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
