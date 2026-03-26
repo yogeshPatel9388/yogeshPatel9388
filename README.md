@@ -16,7 +16,7 @@ I am a final-year **B.Tech Computer Science** student at **SAGE University, Indo
 - 👨‍💻 Most of my projects are available at [github.com/yogeshPatel9388](https://github.com/yogeshPatel9388)
 - 💬 Ask me about **React, Node.js, or UI/UX Design**.
 - 📫 My Inbox is Always Open @yogeshsidhi123@gmail.com
-- 👉 The Story Behind Me **https://yogeshpatel.vercel.app**
+- 👉 The Story Behind Me **https://yogeshpatel.me**
 - ⚡ Fun fact: I was the Captain of my University's **Kabaddi team** and am an **NCC "A" Certificate** holder.
 
 ---
